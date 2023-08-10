@@ -1,16 +1,53 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Omar Al Javed</h1>
 
-<!--
-**omaraljaved/omaraljaved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h3 align="center">An enthusiast in the field of optimization</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="left">
+  📚 I'm currently learning to solve stochastic optimization problems using MATLAB.<br>
+  🎯 I'm driven by the prospect of optimizing systems to maximize efficiency and impact.<br>
+  👯 I’m willing to collaborate on building communities, and research projects.<br>
+  📫 How to reach me: <a href="mailto:omaraljaved26@gmail.com">omaraljaved26@gmail.com</a>
+</p>
+
+
+###
+
+<h3 align="left">Language and tools:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minitab/minitab-original.svg" height="40" alt="minitab logo"  />
+</div>
+
+###
+
+<h3 align="left">Connect with me:</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/omar-al-javed/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="mailto:omaraljaved26@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+</div>
+
+
+###
