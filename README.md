@@ -1,10 +1,5 @@
 <h1 align="center">Hi, I'm Md Omar Al Javed</h1>
 
-###
-
-<h3 align="center">An enthusiast in the field of optimization</h3>
-
-###
 
 <p align="left">
   📚 I'm currently learning to solve stochastic optimization problems using MATLAB.<br>
