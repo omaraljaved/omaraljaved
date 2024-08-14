@@ -2,11 +2,12 @@
 
 
 <p align="left">
-  📚 I'm currently learning to solve stochastic optimization problems using MATLAB.<br>
   🎯 I'm driven by the prospect of optimizing systems to maximize efficiency and impact.<br>
-  👯 I’m willing to collaborate on building communities, and research projects.<br>
-  📫 How to reach me: <a href="mailto:omaraljaved26@gmail.com">omaraljaved26@gmail.com</a><br>
-  💬 Have questions? Ask me anything on <a href="https://www.quora.com/profile/Omar-Al-Javed">Quora</a>.
+  📚 Currently learning to solve stochastic optimization problems using MATLAB.<br>
+  📖 Reading Now: <a href="https://www.softcover.io/read/7b8eb7d0/juliabook2/">Julia Programming for Operations Research</a><br>
+  👯 Open to collaboration on building communities and research projects.<br>
+  💬 Have questions? Ask me anything on <a href="https://www.quora.com/profile/Omar-Al-Javed">Quora</a>.<br>
+  📫 How to reach me: <a href="mailto:omaraljaved26@gmail.com">omaraljaved26@gmail.com</a>
 </p>
 
 
