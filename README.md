@@ -33,11 +33,11 @@
   <img width="12" />
   <img src="https://www.ampl.com/wp-content/uploads/2020/09/cropped-ampl_logo_only_orange_1024.png" height="40" alt="ampl logo" />
   <img width="12" />
-  <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" height="40" alt="matplotlib logo" />
+  <img src="https://matplotlib.org/_static/logo2_compressed.svg" height="40" alt="matplotlib logo" />
   <img width="12" />
-  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="40" alt="sklearn logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="sklearn logo" />
   <img width="12" />
-  <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQF9MbAxx2cJ5g/company-logo_200_200/0/1620995338078?e=2147483647&v=beta&t=zYey05xeyu5Agyygo28QNBJtoLhHtWHiP4T84k9yN90" height="40" alt="gurobi logo" />
+  <img src="https://media.licdn.com/dms/image/C4E0BAQF9MbAxx2cJ5g/company-logo_200_200/0/1620995338078" height="40" alt="gurobi logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/IBM_logo.svg" height="40" alt="cplex logo" />
   <img width="12" />
