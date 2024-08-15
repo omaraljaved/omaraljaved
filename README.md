@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  <img src="YOUR_HOSTED_URL/python-logo.png" height="40" alt="python logo" />
+  <img src="![image](https://github.com/user-attachments/assets/44023d22-8b9a-454a-8927-40653fb6b347)" height="40" alt="python logo" />
   <img width="12" />
   <img src="YOUR_HOSTED_URL/numpy-logo.png" height="40" alt="numpy logo" />
   <img width="12" />
