@@ -19,40 +19,38 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="YOUR_HOSTED_URL/python-logo.png" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
+  <img src="YOUR_HOSTED_URL/numpy-logo.png" height="40" alt="numpy logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
+  <img src="YOUR_HOSTED_URL/pandas-logo.png" height="40" alt="pandas logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo" />
+  <img src="YOUR_HOSTED_URL/matlab-logo.png" height="40" alt="matlab logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img src="YOUR_HOSTED_URL/c-logo.png" height="40" alt="c logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minitab/minitab-original.svg" height="40" alt="minitab logo" />
+  <img src="YOUR_HOSTED_URL/minitab-logo.png" height="40" alt="minitab logo" />
   <img width="12" />
-  <img src="https://www.ampl.com/wp-content/uploads/2020/09/cropped-ampl_logo_only_orange_1024.png" height="40" alt="ampl logo" />
+  <img src="YOUR_HOSTED_URL/ampl-logo.png" height="40" alt="ampl logo" />
   <img width="12" />
-  <img src="https://matplotlib.org/_static/logo2_compressed.svg" height="40" alt="matplotlib logo" />
+  <img src="YOUR_HOSTED_URL/matplotlib-logo.png" height="40" alt="matplotlib logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="sklearn logo" />
+  <img src="YOUR_HOSTED_URL/sklearn-logo.png" height="40" alt="sklearn logo" />
   <img width="12" />
-  <img src="https://media.licdn.com/dms/image/C4E0BAQF9MbAxx2cJ5g/company-logo_200_200/0/1620995338078" height="40" alt="gurobi logo" />
+  <img src="YOUR_HOSTED_URL/gurobi-logo.png" height="40" alt="gurobi logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/IBM_logo.svg" height="40" alt="cplex logo" />
+  <img src="YOUR_HOSTED_URL/cplex-logo.png" height="40" alt="cplex logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Excel_2013-2019_logo.svg" height="40" alt="ms excel logo" />
+  <img src="YOUR_HOSTED_URL/excel-logo.png" height="40" alt="ms excel logo" />
   <img width="12" />
-  <img src="https://www.statease.com/assets/images/logos/Statease_Favicon-8c730c52.svg" height="40" alt="design expert logo" />
+  <img src="YOUR_HOSTED_URL/design-expert-logo.png" height="40" alt="design expert logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Rockwell_Arena_software_logo.svg" height="40" alt="arena logo" />
+  <img src="YOUR_HOSTED_URL/arena-logo.png" height="40" alt="arena logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/SolidWorks_logo.png" height="40" alt="solidworks logo" />
+  <img src="YOUR_HOSTED_URL/solidworks-logo.png" height="40" alt="solidworks logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/CATIA_logo.png" height="40" alt="catia logo" />
+  <img src="YOUR_HOSTED_URL/catia-logo.png" height="40" alt="catia logo" />
 </div>
-
-
 
 
 
