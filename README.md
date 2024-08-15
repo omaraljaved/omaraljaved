@@ -18,35 +18,40 @@
 
 ###
 
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://www.mathworks.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>
-  </a>
-  <a href="https://jupyter.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  </a>
-  <a href="https://www.r-project.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="40" height="40"/>
-  </a>
-  <a href="https://www.minitab.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minitab/minitab-original.svg" alt="minitab" width="40" height="40"/>
-  </a>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minitab/minitab-original.svg" height="40" alt="minitab logo" />
+  <img width="12" />
+  <img src="AMPL-Logo-URL" height="40" alt="ampl logo" />
+  <img width="12" />
+  <img src="Matplotlib-Logo-URL" height="40" alt="matplotlib logo" />
+  <img width="12" />
+  <img src="SKlearn-Logo-URL" height="40" alt="sklearn logo" />
+  <img width="12" />
+  <img src="Gurobipy-Logo-URL" height="40" alt="gurobipy logo" />
+  <img width="12" />
+  <img src="CPLEX-Logo-URL" height="40" alt="cplex logo" />
+  <img width="12" />
+  <img src="MS-Excel-Logo-URL" height="40" alt="ms excel logo" />
+  <img width="12" />
+  <img src="Design-Expert-Logo-URL" height="40" alt="design expert logo" />
+  <img width="12" />
+  <img src="Arena-Logo-URL" height="40" alt="arena logo" />
+  <img width="12" />
+  <img src="SolidWorks-Logo-URL" height="40" alt="solidworks logo" />
+  <img width="12" />
+  <img src="CATIA-Logo-URL" height="40" alt="catia logo" />
+</div>
+
 
 
 
