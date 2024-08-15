@@ -31,25 +31,25 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minitab/minitab-original.svg" height="40" alt="minitab logo" />
   <img width="12" />
-  <img src="AMPL-Logo-URL" height="40" alt="ampl logo" />
+  <img src="https://www.ampl.com/wp-content/uploads/2020/09/cropped-ampl_logo_only_orange_1024.png" height="40" alt="ampl logo" />
   <img width="12" />
-  <img src="Matplotlib-Logo-URL" height="40" alt="matplotlib logo" />
+  <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" height="40" alt="matplotlib logo" />
   <img width="12" />
-  <img src="SKlearn-Logo-URL" height="40" alt="sklearn logo" />
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="40" alt="sklearn logo" />
   <img width="12" />
-  <img src="Gurobipy-Logo-URL" height="40" alt="gurobipy logo" />
+  <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQF9MbAxx2cJ5g/company-logo_200_200/0/1620995338078?e=2147483647&v=beta&t=zYey05xeyu5Agyygo28QNBJtoLhHtWHiP4T84k9yN90" height="40" alt="gurobi logo" />
   <img width="12" />
-  <img src="CPLEX-Logo-URL" height="40" alt="cplex logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/IBM_logo.svg" height="40" alt="cplex logo" />
   <img width="12" />
-  <img src="MS-Excel-Logo-URL" height="40" alt="ms excel logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Excel_2013-2019_logo.svg" height="40" alt="ms excel logo" />
   <img width="12" />
-  <img src="Design-Expert-Logo-URL" height="40" alt="design expert logo" />
+  <img src="https://www.statease.com/assets/images/logos/Statease_Favicon-8c730c52.svg" height="40" alt="design expert logo" />
   <img width="12" />
-  <img src="Arena-Logo-URL" height="40" alt="arena logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Rockwell_Arena_software_logo.svg" height="40" alt="arena logo" />
   <img width="12" />
-  <img src="SolidWorks-Logo-URL" height="40" alt="solidworks logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/SolidWorks_logo.png" height="40" alt="solidworks logo" />
   <img width="12" />
-  <img src="CATIA-Logo-URL" height="40" alt="catia logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/CATIA_logo.png" height="40" alt="catia logo" />
 </div>
 
 
