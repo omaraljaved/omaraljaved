@@ -18,43 +18,36 @@
 
 ###
 
-<div align="left" style="text-decoration: none;">
-  <a href="https://www.python.org" target="_blank" style="text-decoration: none;">
+<div align="left" style="display: flex; align-items: center;">
+  <a href="https://www.python.org" target="_blank" style="text-decoration: none; border: none; margin: 0;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   </a>
-  <img width="12" />
-  <a href="https://www.r-project.org" target="_blank" style="text-decoration: none;">
+  <a href="https://www.r-project.org" target="_blank" style="text-decoration: none; border: none; margin: 0 12px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo" />
   </a>
-  <img width="12" />
-  <a href="https://www.mathworks.com" target="_blank" style="text-decoration: none;">
+  <a href="https://www.mathworks.com" target="_blank" style="text-decoration: none; border: none; margin: 0 12px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo" />
   </a>
-  <img width="12" />
-  <a href="https://en.cppreference.com/w/c" target="_blank" style="text-decoration: none;">
+  <a href="https://en.cppreference.com/w/c" target="_blank" style="text-decoration: none; border: none; margin: 0 12px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
   </a>
-  <img width="12" />
-  <a href="https://jupyter.org" target="_blank" style="text-decoration: none;">
+  <a href="https://jupyter.org" target="_blank" style="text-decoration: none; border: none; margin: 0 12px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
   </a>
-  <img width="12" />
-  <a href="https://numpy.org" target="_blank" style="text-decoration: none;">
+  <a href="https://numpy.org" target="_blank" style="text-decoration: none; border: none; margin: 0 12px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
   </a>
-  <img width="12" />
-  <a href="https://pandas.pydata.org" target="_blank" style="text-decoration: none;">
+  <a href="https://pandas.pydata.org" target="_blank" style="text-decoration: none; border: none; margin: 0 12px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
   </a>
-  <img width="12" />
-  <a href="https://www.minitab.com" target="_blank" style="text-decoration: none;">
+  <a href="https://www.minitab.com" target="_blank" style="text-decoration: none; border: none; margin: 0 12px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minitab/minitab-original.svg" height="40" alt="minitab logo" />
   </a>
-  <img width="12" />
-  <a href="https://scikit-learn.org" target="_blank" style="text-decoration: none;">
+  <a href="https://scikit-learn.org" target="_blank" style="text-decoration: none; border: none; margin: 0 12px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo" />
   </a>
 </div>
+
 
 
 
