@@ -34,8 +34,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minitab/minitab-original.svg" height="40" alt="minitab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/matplotlib-original.svg" height="40" alt="matplotlib logo"  />
+
+            <i class="devicon-scikitlearn-plain colored"></i>
+          
 </div>
 
 <h3 align="left">Connect with me:</h3>
