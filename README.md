@@ -51,7 +51,7 @@
 </div>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaraljaved&layout=compact&theme=default&hide_border=true&border_radius=5" height="200" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaraljaved&layout=compact&theme=default&hide_border=true&border_radius=5" height="170" alt="top languages" />
 </div>
 
 ###
