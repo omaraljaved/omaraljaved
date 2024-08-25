@@ -28,7 +28,7 @@
 </div>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omaraljaved&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2&custom_title=M" height="170" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omaraljaved&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2&custom_title=" height="170" alt="languages graph"  />
 </div>
 
 <h3 align="left">Connect with me:</h3>
